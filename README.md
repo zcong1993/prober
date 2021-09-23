@@ -1,17 +1,17 @@
-# **package_name**
+# prober
 
-<!-- [![NPM version](https://img.shields.io/npm/v/@zcong/**package_name**.svg?style=flat)](https://npmjs.com/package/@zcong/**package_name**) -->
-<!-- [![NPM downloads](https://img.shields.io/npm/dm/@zcong/**package_name**.svg?style=flat)](https://npmjs.com/package/@zcong/**package_name**) -->
-<!-- [![codecov](https://codecov.io/gh/zcong1993/**package_name**/branch/master/graph/badge.svg)](https://codecov.io/gh/zcong1993/**package_name**) -->
+<!-- [![NPM version](https://img.shields.io/npm/v/@zcong/prober.svg?style=flat)](https://npmjs.com/package/@zcong/prober) -->
+<!-- [![NPM downloads](https://img.shields.io/npm/dm/@zcong/prober.svg?style=flat)](https://npmjs.com/package/@zcong/prober) -->
+<!-- [![codecov](https://codecov.io/gh/zcong1993/prober/branch/master/graph/badge.svg)](https://codecov.io/gh/zcong1993/prober) -->
 
 > my cool project
 
 ## Install
 
 ```bash
-$ yarn add @zcong/**package_name**
+$ yarn add @zcong/prober
 # or npm
-$ npm i @zcong/**package_name** --save
+$ npm i @zcong/prober --save
 ```
 
 ## License
