@@ -1,6 +1,6 @@
 {
   "name": "@zcong/prober",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Server probe manager",
   "main": "./dist/index.js",
   "files": [
